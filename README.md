@@ -9,7 +9,7 @@ El script recorre las filas de una hoja de cálculo, extrae las coordenadas de l
 ## Instalación
 1. Abre una hoja de cálculo de Google Sheets.
 2. Ve a **Extensiones > Apps Script**.
-3. Copia el código del archivo `Code.gs` y pégalo en el editor de scripts de Google Sheets.
+3. Copia el código del archivo `Google-Sheets-Distance-Calculator.txt` y pégalo en el editor de scripts de Google Sheets.
 4. Guarda y ejecuta el script.
 
 ## Créditos
