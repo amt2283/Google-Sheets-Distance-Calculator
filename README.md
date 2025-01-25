@@ -13,4 +13,4 @@ El script recorre las filas de una hoja de cálculo, extrae las coordenadas de l
 4. Guarda y ejecuta el script.
 
 ## Créditos
-Este proyecto se basa en el trabajo de [aalkz](https://github.com/aalkz), quien proporcionó la base para el cálculo de distancias utilizando la fórmula de Haversine.
+- **Tesel.mx**: Este proyecto se basa en el artículo "[Convertir direcciones a coordenadas de latitud y longitud con Google Sheets y Google Maps (Geocoding)](https://tesel.mx/convertir-direcciones-a-coordenadas-de-latitud-y-longitud-con-google-sheets-y-google-maps-geocoding-7928/)", que proporciona una guía detallada sobre cómo convertir direcciones en coordenadas utilizando Google Sheets y Google Maps.
